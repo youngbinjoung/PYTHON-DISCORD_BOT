@@ -1,0 +1,2 @@
+message.author=바코드#1741 처럼나옴
+message.author.mention=@바코드 (맨션을 해줌)
